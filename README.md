@@ -1,4 +1,10 @@
 # Advanced-Decision-Making-Predictive-Analytics-Machine-Learning-Project
-Comparing categories of machine learning algorithms through decision-making exercises on selected datasets.
- 
- This paper aims to explore the process of decision making using Machine Learning algorithms and methodologies. The development is divided into two parts. Firstly, we will compare tree-based algorithms with conditional probability algorithms. Secondly, we will train and compare Machine Learning algorithms to solve a prediction problem of predicting the scribes of the Avalone Bible based on page layout features. The Avila Dataset with 10,430 training samples and 10,437 test samples will be used for this purpose, and Python will be the programming language utilized. This is a supervised learning problem since we already have information on the passages of the Bible written by each scribe. The prediction problem will be approached as a classification problem, and the results of the different algorithms will be analyzed and compared.  
+This GitHub repository contains a project on advanced decision making using predictive analytics and machine learning algorithms. The project is divided into two parts.
+
+In the first part, the project compares tree-based algorithms with conditional probability algorithms to understand the decision-making process using different methodologies.
+
+In the second part, the project trains and compares machine learning algorithms to solve a prediction problem that predicts the scribes of the Avalone Bible based on page layout features. The Avila Dataset is used for this purpose, which contains 10,430 training samples and 10,437 test samples. Python is the programming language used to implement the project.
+
+The prediction problem is approached as a classification problem since the information on the passages of the Bible written by each scribe is already available. The results of different machine learning algorithms are analyzed and compared to evaluate their effectiveness in solving the prediction problem.
+
+This repository includes the source code, data, and other resources used in the project. It can be helpful for researchers, data scientists, and developers working on similar projects in the field of predictive analytics and machine learning. 
